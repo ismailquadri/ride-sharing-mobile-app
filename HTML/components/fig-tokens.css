@@ -1,0 +1,133 @@
+/* Generated from Figma Variables. First mode = :root default.
+   FLOAT tokens are unitless — multiply by 1px in calc() where a length is needed. */
+
+:root {
+  --background-bg-primary: var(--gray-25); /* @kind color */
+  --background-bg-secondary-2: var(--general-white); /* @kind color */
+  --background-bg-secondary-hover: var(--gray-100); /* @kind color */
+  --background-bg-secondary: var(--general-white-2); /* @kind color */
+  --border-border-secondary: var(--gray-200); /* @kind color */
+  --brand-main: rgb(75,99,245); /* @kind color */
+  --colors-background-bg-primary: var(--colors-base-white-2); /* @kind color */
+  --colors-base-black: rgb(0,0,0); /* @kind color */
+  --colors-base-white-2: rgb(255,255,255); /* @kind color */
+  --colors-base-white: rgb(255,255,255); /* @kind color */
+  --colors-blue-light-100: rgb(224,242,254); /* @kind color */
+  --colors-blue-light-200: rgb(185,230,254); /* @kind color */
+  --colors-blue-light-25: rgb(245,251,255); /* @kind color */
+  --colors-blue-light-300: rgb(124,212,253); /* @kind color */
+  --colors-blue-light-400: rgb(54,191,250); /* @kind color */
+  --colors-blue-light-50: rgb(240,249,255); /* @kind color */
+  --colors-blue-light-600: rgb(0,134,201); /* @kind color */
+  --colors-blue-light-700: rgb(2,106,162); /* @kind color */
+  --colors-blue-light-800: rgb(6,89,134); /* @kind color */
+  --colors-blue-light-900: rgb(11,74,111); /* @kind color */
+  --colors-blue-light-950: rgb(6,44,65); /* @kind color */
+  --colors-error-100: rgb(254,228,226); /* @kind color */
+  --colors-error-200: rgb(254,205,202); /* @kind color */
+  --colors-error-25: rgb(255,251,250); /* @kind color */
+  --colors-error-300: rgb(253,162,155); /* @kind color */
+  --colors-error-400: rgb(249,112,102); /* @kind color */
+  --colors-error-50: rgb(254,243,242); /* @kind color */
+  --colors-error-600: rgb(217,45,32); /* @kind color */
+  --colors-error-700: rgb(180,35,24); /* @kind color */
+  --colors-error-800: rgb(145,32,24); /* @kind color */
+  --colors-error-900: rgb(122,39,26); /* @kind color */
+  --colors-error-950: rgb(85,22,12); /* @kind color */
+  --colors-foreground-fg-quinary-400: var(--colors-gray-light-mode-400); /* @kind color */
+  --colors-foreground-fg-quinary-hover: var(--colors-gray-light-mode-500); /* @kind color */
+  --colors-gray-dark-mode-400: rgb(148,150,156); /* @kind color */
+  --colors-gray-dark-mode-500: rgb(133,136,142); /* @kind color */
+  --colors-gray-dark-mode-800: rgb(31,36,47); /* @kind color */
+  --colors-gray-dark-mode-950: rgb(12,17,29); /* @kind color */
+  --colors-gray-light-mode-400: rgb(152,162,179); /* @kind color */
+  --colors-gray-light-mode-500: rgb(102,112,133); /* @kind color */
+  --colors-green-500: rgb(33,55,33); /* @kind color */
+  --colors-icon-heavy: var(--colors-green-500); /* @kind color */
+  --colors-success-100: rgb(220,250,230); /* @kind color */
+  --colors-success-25: rgb(246,254,249); /* @kind color */
+  --colors-success-300: rgb(117,224,167); /* @kind color */
+  --colors-success-400: rgb(71,205,137); /* @kind color */
+  --colors-success-600: rgb(7,148,85); /* @kind color */
+  --colors-success-700: rgb(6,118,71); /* @kind color */
+  --colors-success-800: rgb(8,93,58); /* @kind color */
+  --colors-success-900: rgb(7,77,49); /* @kind color */
+  --colors-success-950: rgb(5,51,33); /* @kind color */
+  --colors-warning-200: rgb(254,223,137); /* @kind color */
+  --colors-warning-25: rgb(255,252,245); /* @kind color */
+  --colors-warning-400: rgb(253,176,34); /* @kind color */
+  --colors-warning-600: rgb(220,104,3); /* @kind color */
+  --colors-warning-700: rgb(181,71,8); /* @kind color */
+  --colors-warning-800: rgb(147,55,13); /* @kind color */
+  --colors-warning-900: rgb(122,46,14); /* @kind color */
+  --colors-warning-950: rgb(78,29,9); /* @kind color */
+  --component-colors-components-icons-social-icons-social-icon-fg-angellist: var(--colors-base-black); /* @kind color */
+  --component-colors-components-icons-social-icons-social-icon-fg-apple: var(--colors-base-black); /* @kind color */
+  --component-colors-components-icons-social-icons-social-icon-fg-github: var(--colors-base-black); /* @kind color */
+  --component-colors-components-icons-social-icons-social-icon-fg-instagram: rgb(0,1,0); /* @kind color */
+  --component-colors-components-icons-social-icons-social-icon-fg-tumblr: rgb(0,25,53); /* @kind color */
+  --component-colors-components-icons-social-icons-social-icon-fg-x: rgb(36,46,54); /* @kind color */
+  --dark-mood-background-main-color: rgb(5,6,15); /* @kind color */
+  --dark-mood-background-secondari-2: rgb(19,20,31); /* @kind color */
+  --dark-mood-background-secondari: rgb(19,20,31); /* @kind color */
+  --dark-mood-border-secondary: rgb(26,28,44); /* @kind color */
+  --dark-mood-card-main-color: rgb(18,19,28); /* @kind color */
+  --dark-mood-icon-secondary-color: rgb(184,189,199); /* @kind color */
+  --dark-mood-text-color-two: rgb(205,205,216); /* @kind color */
+  --dark-mood-text-secondary-coler: rgb(196,199,207); /* @kind color */
+  --family-sans: "DM Sans";
+  --general-white-2: rgb(255,255,255); /* @kind color */
+  --general-white: rgb(255,255,255); /* @kind color */
+  --gray-100: rgb(241,241,241); /* @kind color */
+  --gray-200: rgb(233,233,233); /* @kind color */
+  --gray-25: rgb(249,249,249); /* @kind color */
+  --gray-600: rgb(87,87,87); /* @kind color */
+  --gray-700: rgb(55,55,55); /* @kind color */
+  --gray-800: rgb(45,45,45); /* @kind color */
+  --gray-950: rgb(0,0,0); /* @kind color */
+  --icon-secondary: var(--gray-700); /* @kind color */
+  --leading-4: 28;
+  --leading-7: 40;
+  --leading-9: 48;
+  --size-3xl: 30;
+  --size-5xl: 48;
+  --size-desplay-1: 48;
+  --size-desplay-6: 24;
+  --size-large: 20;
+  --size-x-large: 18;
+  --size-xl: 20;
+  --text-primary: var(--gray-950); /* @kind color */
+  --text-secondary: var(--gray-800); /* @kind color */
+  --text-tertiary: var(--gray-600); /* @kind color */
+  --tracking-normal: 0;
+  --typeface-family-display-display: "Geist";
+  --typeface-family-display-text: "Geist";
+  --weight-bold-2: 700;
+  --weight-bold: "Bold";
+  --weight-medium-2: 500;
+  --weight-medium: "Medium";
+  --weight-regular: "Regular";
+  --weight-semibold: 600;
+  --yellow-500: rgb(255,184,68); /* @kind color */
+}
+
+:root[data-theme="dark"], .dark {
+  --background-bg-primary: var(--dark-mood-background-main-color); /* @kind color */
+  --background-bg-secondary-2: var(--dark-mood-background-secondari-2); /* @kind color */
+  --background-bg-secondary-hover: var(--dark-mood-card-main-color); /* @kind color */
+  --background-bg-secondary: var(--dark-mood-background-secondari); /* @kind color */
+  --border-border-secondary: var(--dark-mood-border-secondary); /* @kind color */
+  --colors-background-bg-primary: var(--colors-gray-dark-mode-950); /* @kind color */
+  --colors-foreground-fg-quinary-400: var(--colors-gray-dark-mode-500); /* @kind color */
+  --colors-foreground-fg-quinary-hover: var(--colors-gray-dark-mode-400); /* @kind color */
+  --component-colors-components-icons-social-icons-social-icon-fg-angellist: var(--colors-base-white-2); /* @kind color */
+  --component-colors-components-icons-social-icons-social-icon-fg-apple: var(--colors-base-white-2); /* @kind color */
+  --component-colors-components-icons-social-icons-social-icon-fg-github: var(--colors-base-white-2); /* @kind color */
+  --component-colors-components-icons-social-icons-social-icon-fg-instagram: var(--colors-base-white-2); /* @kind color */
+  --component-colors-components-icons-social-icons-social-icon-fg-tumblr: var(--colors-base-white-2); /* @kind color */
+  --component-colors-components-icons-social-icons-social-icon-fg-x: var(--colors-base-white-2); /* @kind color */
+  --icon-secondary: var(--dark-mood-icon-secondary-color); /* @kind color */
+  --text-primary: var(--general-white); /* @kind color */
+  --text-secondary: var(--dark-mood-text-secondary-coler); /* @kind color */
+  --text-tertiary: var(--dark-mood-text-color-two); /* @kind color */
+}
