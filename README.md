@@ -19,7 +19,7 @@ A modern, high-fidelity ride sharing mobile application interface and interactiv
 
 ## 🚀 Live Demo & Deployment
 
-- **Live URL**: Deployed with Vercel
+- **Live URL**: [https://ride-sharing-mobile-app.vercel.app](https://ride-sharing-mobile-app.vercel.app)
 - **GitHub Repository**: [https://github.com/ismailquadri/ride-sharing-mobile-app](https://github.com/ismailquadri/ride-sharing-mobile-app)
 
 ---
